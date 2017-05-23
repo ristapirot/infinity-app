@@ -1,0 +1,14 @@
+.jumbotron {
+	color: white;
+	background-color: transparent;
+	text-align: center;
+}
+
+.jumbotron .badge {
+	background-color: white;
+}
+
+.jumbotron .badge img {
+	width: 20em;
+	height: 10em;
+}
